@@ -1,2 +1,4 @@
 git config --global useer.name "your name"
 git config --global user.email "your email id"
+git list : show all history 
+git branch : list all branchs
